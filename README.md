@@ -208,6 +208,12 @@ O Nesta Pasta funciona **100% localmente** no seu computador.
 - [ ] Melhorias na experiência de uso
 
 ---
+## 📥 Download
+
+➡️ Baixe a versão mais recente em:
+https://github.com/LucasNestaCloud/NestaPasta/releases
+
+---
 
 ## ❤️ Desenvolvido por
 
